@@ -4,7 +4,7 @@ const wow2=require('../text2.js')kjnkjn
 
 hello ts
 wecjbjrbgjk
-
+wtevgr
 xw
 uhiuhuhhuices
 kjnkjnjknkj
