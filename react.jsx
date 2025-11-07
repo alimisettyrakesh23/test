@@ -1,4 +1,4 @@
-import Button from "../ui/button";
+import Button from "helo2.js";
 import React from "react";
 hiiii React.jsx
 efrt

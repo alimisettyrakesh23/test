@@ -1,6 +1,7 @@
 const express=require('express')
-const wow=require('../tetx.js')
-const wow2=require('../text2.js')kjnkjn
+const wow=require('../hello2.js')
+const wow2=require('../react.jsx')
+kjnkjn
 
 hello ts
 wecjbjrbgjkkn
