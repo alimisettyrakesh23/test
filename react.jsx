@@ -3,7 +3,7 @@ import React from "react";
 hiiii React.jsx
 
 {
-    ice
+    ice wgre
     jkbjbjhbhj2cekjnjkn
 }
 iuhiuh
